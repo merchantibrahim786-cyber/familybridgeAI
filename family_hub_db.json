@@ -1,0 +1,67 @@
+{
+    "user_passwords": {
+        "Dad": "dad",
+        "Sister": "sis"
+    },
+    "private_chat_history": {
+        "Dad": [
+            [
+                "my son keeps getting bad marks",
+                "Hey Dad, oh man, that's really tough to hear. It's totally understandable to feel worried and frustrated when you see that happening. It's just one of those things that can really weigh on you as a parent, right? Especially when you just want the best for them.\n\nSometimes with these things, it's not even about \"bad marks\" as much as figuring out what's going on *behind* them. Maybe something's tough in a class, or he's feeling overwhelmed, or even just needing a different way to learn. Who knows, maybe he's just got a lot on his plate with friends or other stuff too.\n\nMy advice? Maybe just find a cozy moment, not even about the grades, but just to check in. Like, \"Hey buddy, how are things going for you these days? Anything on your mind?\" No pressure, no big lecture, just a chat. Sometimes just knowing you're there to listen can make a huge difference.\n\nAnd hey, you're doing great just by caring enough to think about it. We've all been there with our kids! \ud83d\udcaa"
+            ],
+            [
+                "hi \n",
+                "Hey Dad! \ud83d\udc4b So good to see you pop in.\n\nJust wanted to say, I'm right here whenever you need me. Whether it's to vent, brainstorm, or just chill for a sec. What's on your mind today, anything brewing? Or just saying hey? Totally up to you! \ud83d\ude0a"
+            ],
+            [
+                "i keep getting bad marks what should i do\n",
+                "Oh man, Dad, that totally stinks to hear. Seriously, it's such a bummer when you're putting in effort and not seeing the results you want. Totally get why that would be frustrating and probably a bit disheartening.\n\nHey, don't beat yourself up over it. Everyone, and I mean *everyone*, hits these kinds of snags sometimes. It doesn't mean you're not smart or trying hard \u2013 sometimes things just don't click, or there's a little bump in the road.\n\nMaybe for a start, could we just take a little breather? And then, if you're up for it, we could just pick *one* of those \"bad marks\" and just look at it together, no pressure? Sometimes just figuring out what *one* thing happened, or what *one* area feels a bit fuzzy, can make a big difference. Or even just talking through what's making it tough helps a ton.\n\nI'm here for whatever you need, seriously. Let's just figure out one small, cozy step forward. You got this, Dad. \u2764\ufe0f"
+            ]
+        ],
+        "Mom": [],
+        "Sister": [],
+        "Brother": []
+    },
+    "family_inbox": {
+        "Dad": [],
+        "Mom": [],
+        "Sister": [],
+        "Brother": [
+            [
+                "Dad",
+                "Hey, I've noticed you've been getting some marks lately that aren't quite what you're aiming for, and I wanted to check in. School can be challenging, and I just want you to know I'm here to support you in any way I can. If you want to talk about it or need help with anything, just let me know. We can work through it together."
+            ]
+        ]
+    },
+    "last_processed_vent": {
+        "Dad": "i keep getting bad marks what should i do\n",
+        "Mom": null,
+        "Sister": null,
+        "Brother": null
+    },
+    "hugs_count": 0,
+    "love_notes": [
+        {
+            "text": "love everybody",
+            "author": "Dad"
+        }
+    ],
+    "household_needs": [
+        {
+            "need": "wash dishes",
+            "posted_by": "Dad",
+            "claimed_by": "Dad",
+            "points": 3
+        }
+    ],
+    "completed_chores": [],
+    "health_budget": [],
+    "shared_calendar": [],
+    "user_rewards": {
+        "Dad": 0,
+        "Mom": 0,
+        "Sister": 0,
+        "Brother": 0
+    },
+    "family_journal": []
+}
